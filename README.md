@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ravitejamar9
+- 👀 I’m interested in learning new technologies and working on projects
+- 🌱 I’m currently learning python full stack web development and reactJs
+- 💞️ I’m looking to collaborate on open source beginer level projects
